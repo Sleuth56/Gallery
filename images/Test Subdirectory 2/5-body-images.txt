@@ -1,3 +1,0 @@
-<img class="img-large" src="./optimised/test4.jpg">
-<img class="img-large" src="./optimised/test5.jpg">
-<img class="img-large" src="./optimised/test6.jpg">
